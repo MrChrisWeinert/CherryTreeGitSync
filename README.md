@@ -18,6 +18,7 @@ When launching CherryTree, the shell script will pull latest files from Git, ope
 **OK, I'm sold. What do I have to do?**
 1) Create/initialize your private git repo where you'll store your CherryTree files.
 2) Copy "[launcher.sh](https://raw.githubusercontent.com/MrChrisWeinert/CherryTreeGitSync/master/launcher.sh)" to your newly-created git repo.
+3) Create an alias/shortcut, depending on your OS.
 
 >**On Linux**:
 >Make the launcher executable: `chmod +x launcher.sh`
