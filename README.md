@@ -26,9 +26,9 @@ When launching CherryTree, the shell script will pull latest files from Git, ope
 >**On Windows**:
 >Create a shortcut file, using the location of your local git shell executable, and your local git repo:  
 >`"C:\Program Files\Git\bin\sh.exe" -c "cd /c/Code/MrChrisWeinert/CherryTreePrivate && ./launcher.sh"`
-
+>
 >Finally, you'll need to add the CherryTree.exe executable's path to your environment's PATH variable.
-
+>
 >Optional:  
 >Set the "Run" dropdown value to `Minimized`.  
 >Use the original "Cherries" icon from the CherryTree executable. 
