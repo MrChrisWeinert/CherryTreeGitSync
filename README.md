@@ -12,7 +12,7 @@ If you answered `yes` to any of these questions, then CherryTree GitHub Sync is 
 2) Copy "[launcher.sh](https://raw.githubusercontent.com/MrChrisWeinert/CherryTreeGitSync/master/launcher.sh)" to your newly-created git repo.
 
 >**Linux**:
->Make it executable: `chmod 755`
+>Make it executable: `chmod 755 launcher.sh`
 2) Create your shortcut:
 >**Linux**:
 >Create an alias like this:
