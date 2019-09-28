@@ -20,11 +20,11 @@ When launching CherryTree, the shell script will pull latest files from Git, ope
 >Make the launcher executable: `chmod +x launcher.sh`
 2) Create your shortcut:
 >**On Linux**:
->Create an alias like this, using the location of your local git repo:
+>Create an alias like this, using the location of your local git repo:  
 >`alias cherry="cd ~/git/CherryTreePrivate && ./launcher.sh"`
 
 >**On Windows**:
->Create a shortcut file, using the location of your local git shell executable, and your local git repo:
+>Create a shortcut file, using the location of your local git shell executable, and your local git repo:  
 >`"C:\Program Files\Git\bin\sh.exe" -c "cd /c/Code/MrChrisWeinert/CherryTreePrivate && ./launcher.sh"`
 
 >Set the "Run" dropdown value to `Minimized`.  
@@ -32,8 +32,8 @@ When launching CherryTree, the shell script will pull latest files from Git, ope
 >Finally, you'll need to add the CherryTree.exe executable's path to your environment's PATH variable.
 
 3) Run the program:
->**On Linux**:
+>**On Linux**:  
 > type `cherry`
 
-> **On Windows**:
+> **On Windows**:  
 > double-click the shortcut
