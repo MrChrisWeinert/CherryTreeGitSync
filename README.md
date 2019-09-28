@@ -12,6 +12,9 @@ You can roll back to a previous version in case of a catastrophic corrupted file
 Simply stated, your CherryTree file is stored in a private Git repo (your repo, not mine, obviously).  
 When launching CherryTree, the shell script will pull latest files from Git, open them, and commit/push them once CherryTree is closed.
 
+**Pics or it didn't happen.**
+https://youtu.be/WkR1DFFOHhc
+
 **OK, I'm sold. What do I have to do?**
 1) Create/initialize your private git repo where you'll store your CherryTree files.
 2) Copy "[launcher.sh](https://raw.githubusercontent.com/MrChrisWeinert/CherryTreeGitSync/master/launcher.sh)" to your newly-created git repo.
