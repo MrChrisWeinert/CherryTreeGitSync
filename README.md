@@ -10,11 +10,13 @@ If you answered `yes` to any of these questions, then CherryTree GitHub Sync is 
 
 1) Create/initialize your private git repo where you'll store your CherryTree files. I'm super-creative so I'll call mine "CherryTreePrivate".
 2) Copy "[launcher.sh](https://raw.githubusercontent.com/MrChrisWeinert/CherryTreeGitSync/master/launcher.sh)" to your newly-created git repo.
+>**Linux**
+>Make it executable: `chmod 755`
 2) Create your shortcut:
 >**Linux**:
 >Create an alias like this:
 >`alias cherry="cd ~/git/CherryTreePrivate && ./launcher.sh"`
-> You'll want to replace `~/git/CherryTreePrivate` with the location of *your* git repository
+>You'll want to replace `~/git/CherryTreePrivate` with the location of *your* git repository
 
 >**Windows**:
 >Create a shortcut file with this as the command:
